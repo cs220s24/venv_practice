@@ -12,7 +12,7 @@ To setup your development environment perform the following steps (**in order**)
 
 2. Activate the Virtual Environment
 
-  `source .env/bin/activate`
+  `source .venv/bin/activate`
 
 3. Install the Requirements in `requirements.txt`
 
