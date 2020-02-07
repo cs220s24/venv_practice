@@ -8,7 +8,7 @@ To setup your development environment perform the following steps (**in order**)
 
 1. Create A Virtual Environment
 
-  `python3 -m venv .env`
+  `python3 -m venv .venv`
 
 2. Activate the Virtual Environment
 
