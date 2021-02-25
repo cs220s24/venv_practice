@@ -18,6 +18,8 @@ To setup your development environment perform the following steps (**in order**)
 
   `pip install -r requirements.txt`
 
+  If this command fails with a message "Failed building wheel for bs4", run `pip install wheel` and then `pip install -r requirements.txt`
+
 4. Execute the program in the shell
 
   `python weather.py`
